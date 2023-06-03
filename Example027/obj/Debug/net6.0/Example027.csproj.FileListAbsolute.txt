@@ -1,0 +1,15 @@
+C:\Users\5\Desktop\Обучение\Знакомство с языками программирования С#\Семинары\Папка с задачами\DZ C# 4\Example027\bin\Debug\net6.0\Example027.exe
+C:\Users\5\Desktop\Обучение\Знакомство с языками программирования С#\Семинары\Папка с задачами\DZ C# 4\Example027\bin\Debug\net6.0\Example027.deps.json
+C:\Users\5\Desktop\Обучение\Знакомство с языками программирования С#\Семинары\Папка с задачами\DZ C# 4\Example027\bin\Debug\net6.0\Example027.runtimeconfig.json
+C:\Users\5\Desktop\Обучение\Знакомство с языками программирования С#\Семинары\Папка с задачами\DZ C# 4\Example027\bin\Debug\net6.0\Example027.dll
+C:\Users\5\Desktop\Обучение\Знакомство с языками программирования С#\Семинары\Папка с задачами\DZ C# 4\Example027\bin\Debug\net6.0\Example027.pdb
+C:\Users\5\Desktop\Обучение\Знакомство с языками программирования С#\Семинары\Папка с задачами\DZ C# 4\Example027\obj\Debug\net6.0\Example027.csproj.AssemblyReference.cache
+C:\Users\5\Desktop\Обучение\Знакомство с языками программирования С#\Семинары\Папка с задачами\DZ C# 4\Example027\obj\Debug\net6.0\Example027.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\5\Desktop\Обучение\Знакомство с языками программирования С#\Семинары\Папка с задачами\DZ C# 4\Example027\obj\Debug\net6.0\Example027.AssemblyInfoInputs.cache
+C:\Users\5\Desktop\Обучение\Знакомство с языками программирования С#\Семинары\Папка с задачами\DZ C# 4\Example027\obj\Debug\net6.0\Example027.AssemblyInfo.cs
+C:\Users\5\Desktop\Обучение\Знакомство с языками программирования С#\Семинары\Папка с задачами\DZ C# 4\Example027\obj\Debug\net6.0\Example027.csproj.CoreCompileInputs.cache
+C:\Users\5\Desktop\Обучение\Знакомство с языками программирования С#\Семинары\Папка с задачами\DZ C# 4\Example027\obj\Debug\net6.0\Example027.dll
+C:\Users\5\Desktop\Обучение\Знакомство с языками программирования С#\Семинары\Папка с задачами\DZ C# 4\Example027\obj\Debug\net6.0\refint\Example027.dll
+C:\Users\5\Desktop\Обучение\Знакомство с языками программирования С#\Семинары\Папка с задачами\DZ C# 4\Example027\obj\Debug\net6.0\Example027.pdb
+C:\Users\5\Desktop\Обучение\Знакомство с языками программирования С#\Семинары\Папка с задачами\DZ C# 4\Example027\obj\Debug\net6.0\Example027.genruntimeconfig.cache
+C:\Users\5\Desktop\Обучение\Знакомство с языками программирования С#\Семинары\Папка с задачами\DZ C# 4\Example027\obj\Debug\net6.0\ref\Example027.dll
